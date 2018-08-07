@@ -159,7 +159,7 @@ public class Login extends javax.swing.JFrame {
         Datahandler dh = new Datahandler();
         dh.connectToDB();
 
-        String hello = "Hello";
+        //String hello = "Hello";
         
         String uname = txtUsername.getText();
         String pword = txtpassword.getText();
